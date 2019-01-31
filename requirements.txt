@@ -2,6 +2,5 @@ datetime
 numpy
 matplotlib
 sentinelhub
-os
 PIL
 ipywidgets
