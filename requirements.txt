@@ -1,4 +1,7 @@
 datetime
 numpy
 matplotlib
-sentinelhub 
+sentinelhub
+os
+PIL
+ipywidgets
